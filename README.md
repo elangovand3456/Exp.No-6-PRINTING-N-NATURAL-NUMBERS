@@ -11,10 +11,15 @@ Step 5:	 Use a for loop to iterate from 1 to n (inclusive).
 Step 6:	 In each iteration, print the current value of i.
 Step 7:	 Terminate the program.
 ### PROGRAM
-n=int(input())
+``` n=int(input())
 print("Natural Numbers are :")
 for i in range(1,n+1,1):
     print(i)
+```
+
+
+
+
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/532e5c4b-a16e-4c82-a8fd-9e65d61c1e2f)
 
